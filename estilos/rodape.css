@@ -1,0 +1,11 @@
+.rodape {
+    background-color: var(--cor-de-fundo-dois);
+    padding: 1rem;
+}
+
+.container_textorodape {
+    color: var(--branco);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    text-align: center;
+}

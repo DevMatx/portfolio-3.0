@@ -1,0 +1,51 @@
+.section2 {
+    background: var(--cor-de-fundo-dois);
+    height: 80vh;
+    display: grid;
+    grid-template-rows: 50% 50%;
+    padding-top: 5rem;
+}
+
+.divisaoimagem {
+    display: flex;
+}
+
+.divisao1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-left: 1.5rem;
+    padding-right: 2rem;
+    padding-top: 6rem;
+}
+
+.minhaimagem {
+    width: 90%;
+    height: 90vw;
+    text-align: center;
+    padding: 1rem 2rem 1rem 2.5rem;
+}
+
+.texto_sobremim {
+    font-family: var(--fonte-principal);
+    color: var(--branco);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.container_paragrafo {
+    text-align: justify;
+    hyphens:auto;
+    font-size: 1rem;
+}
+
+.botao_container {
+    background-color: var(--vermelho);
+    border-radius: 24px;
+    padding: 0.65rem;
+    text-decoration: none;
+    color: var(--branco);
+    font-family: var(--fonte-principal);
+    text-transform: uppercase;
+}

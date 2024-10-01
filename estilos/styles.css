@@ -1,0 +1,15 @@
+@import url("header.css");
+@import url("section1.css");
+@import url("section2.css");
+@import url("section3.css");
+@import url("rodape.css");
+
+
+:root {
+    --cor-de-fundo:linear-gradient(to right, #000000 50%, #404040);
+    --cor-de-fundo-dois:#191919;
+    --branco:#ffffff;
+    --fonte-principal:"Poppins";
+    --vermelho: #ff0000;
+    --preto:#000000;
+}

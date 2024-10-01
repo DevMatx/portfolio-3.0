@@ -1,0 +1,32 @@
+.section3 {
+    background: var(--preto);
+    padding-bottom: 1.5rem;
+    height: 40vh;
+}
+
+.container_titulo2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-top: 4rem;
+}
+
+.divisao_2 {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.divisao_container {
+    display: flex;
+    background-color: var(--cor-de-fundo-dois);
+    border-radius: 12px;
+    margin: 0.4rem;
+    justify-content: center;
+}
+
+.titulo__projetos {
+    color: var(--vermelho);
+    font-family: var(--fonte-principal);
+    font-size: 0.8rem;
+    padding: 4rem 0;
+    text-decoration: underline;
+}
